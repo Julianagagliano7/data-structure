@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "passagem-valor.C": "cpp",
+        "passagem-reference.C": "cpp",
+        "passagem-referencia.C": "cpp",
+        "pass-by-value.C": "cpp",
+        "pass-by-reference.C": "cpp"
+    }
+}
